@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dqk4mkhtr/image/upload/v1726413600/lfninqikjtywbrooly69.gif" alt="MasterHead" style="width:100%;"/>
+  <img src="https://res.cloudinary.com/dj1swscda/image/upload/v1729092129/omkv1wjh6rzwnfeep5oq.gif" alt="MasterHead" style="width:100%;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Alampally Akshaya</h1>
 <h3 align="center">A passionate Full Stack and Aspiring Mern Stack developer from India</h3>
